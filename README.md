@@ -6,7 +6,7 @@ A curated list of timeseries clustering resources. Inspired by [`awesome-anomaly
 ## What is timeseries clustering?
 
 <p align="center">
-  <img width="600" src="/assets/clustering.jpg">
+  <img width="300" src="/assets/clustering.jpg">
 </p>
 
 시계열 클러스터링은 레이블이 없는 시계열 데이터를 이용하여 서로 패턴이 유사한 시계열 데이터들을 적절한 그룹들로 구분하는 클러스터를 형성하는 것이 목적이다. 본 연구에서는 시계열 클러스터링을 이용해 새로운 서비스자재의 수요패턴을 예측하는 과정에서 기존의 데이터베이스에 축적된 데이터 중 모델 학습에 유의미한 데이터를 선별하여 머신러닝 / 딥러닝 모델의 학습 효과를 극대화할 예정이다. 시계열 클러스터링 과정에서 데이터의 가공 방식(연속형 여부, 다변량 여부, 시계열의 동기화 및 길이의 동일성 여부), 데이터 간의 거리 측정 방식, 클러스터링 방식에 따라 클러스터링의 결과가 달라질 수 있다.
@@ -34,9 +34,7 @@ A curated list of timeseries clustering resources. Inspired by [`awesome-anomaly
   - [Segmentation target](#segmenatation-target) -->
 
 ## Survey Paper 
-- S. Aghabozorgi, A.S. Shirkhorshidi, T.Y. Wah, (2015). Time-series clustering - A decade review,
-<p><i>Information Systems</i></p>
-| [`[pdf]`](https://reader.elsevier.com/reader/sd/pii/S0306437915000733?token=4BF3F6164FB27C86C6256D98B2E62DEF3EE5D7E94DC5391015D059DE5043C4D13DAB714030F3F6FA703537E2C3CD1DC9)
+- S. Aghabozorgi, A.S. Shirkhorshidi, T.Y. Wah, (2015). Time-series clustering - A decade review| **Information Systems** | [`[pdf]`](https://reader.elsevier.com/reader/sd/pii/S0306437915000733?token=4BF3F6164FB27C86C6256D98B2E62DEF3EE5D7E94DC5391015D059DE5043C4D13DAB714030F3F6FA703537E2C3CD1DC9)
 - TW Liao, (2005). Clustering of time series data - a survey. 
 <p><i>Pattern Recognition</i></p>
 | [`[pdf]`](https://reader.elsevier.com/reader/sd/pii/S0031320305001305?token=1DAAE29A44F329438C9671499FE2ECE77A807C19B77B0649D836304757F42A9B0EED63E54A0058FCA193E8DBE315EDB8)
