@@ -34,16 +34,13 @@ A curated list of timeseries clustering resources. Inspired by [`awesome-anomaly
   - [Segmentation target](#segmenatation-target) -->
 
 ## Survey Paper 
-- S. Aghabozorgi, A.S. Shirkhorshidi, T.Y. Wah, (2015). Time-series clustering - A decade review| **Information Systems** | [`[pdf]`](https://reader.elsevier.com/reader/sd/pii/S0306437915000733?token=4BF3F6164FB27C86C6256D98B2E62DEF3EE5D7E94DC5391015D059DE5043C4D13DAB714030F3F6FA703537E2C3CD1DC9)
-- TW Liao, (2005). Clustering of time series data - a survey. 
-<p><i>Pattern Recognition</i></p>
-| [`[pdf]`](https://reader.elsevier.com/reader/sd/pii/S0031320305001305?token=1DAAE29A44F329438C9671499FE2ECE77A807C19B77B0649D836304757F42A9B0EED63E54A0058FCA193E8DBE315EDB8)
+- Time-series clustering - A decade review | S. Aghabozorgi, A.S. Shirkhorshidi, T.Y. Wah, (2015) | **Information Systems** | [`[pdf]`](https://reader.elsevier.com/reader/sd/pii/S0306437915000733?token=4BF3F6164FB27C86C6256D98B2E62DEF3EE5D7E94DC5391015D059DE5043C4D13DAB714030F3F6FA703537E2C3CD1DC9)
+- Clustering of time series data - a survey | TW Liao, (2005) | **Pattern Recognition** | [`[pdf]`](https://reader.elsevier.com/reader/sd/pii/S0031320305001305?token=1DAAE29A44F329438C9671499FE2ECE77A807C19B77B0649D836304757F42A9B0EED63E54A0058FCA193E8DBE315EDB8)
 
 ## Clustering algorithm & papers
 
 ### Density-based clustering
-- M. Ester, H.P. Kriegel, J. Sander, X. Xu, (1996). A density-based algorithm for discovering clusters in large spatial databases with noise 
-<p><i>KDD' 96</i></p>
+- A density-based algorithm for discovering clusters in large spatial databases with noise | M. Ester, H.P. Kriegel, J. Sander, X. Xu, (1996)| **KDD' 96** |
 | [`[pdf]`](https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf)
 
 
